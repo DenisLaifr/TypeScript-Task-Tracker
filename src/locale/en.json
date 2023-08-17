@@ -1,0 +1,39 @@
+{
+  "navigation": {
+    "home": "Home"
+  },
+  "task_statuses": {
+    "new": "New",
+    "in_progress": "In Progress",
+    "done": "Done"
+  },
+  "task_statuses_description": {
+    "new": "New task",
+    "in_progress": "Task in progress",
+    "done": "Task is done"
+  },
+  "components": {
+    "task_card": {
+      "created_at": "Created at"
+    },
+    "task_form": {
+      "task_created": "Task created",
+      "task_updated": "Task updated",
+      "select_status": "Select status",
+      "description": "Description",
+      "name": "Name"
+    }
+  },
+  "create_task_view": {
+    "create_task": "Create task"
+  },
+  "edit_task_view": {
+    "edit_task": "Edit task",
+    "task_not_found": "Task not found"
+  },
+  "not_found_view": {
+    "page_not_found": "Page not found",
+    "check_url": "Check URL or click button below to go to home page",
+    "go_to_home_page": "Go to home page"
+  }
+}
